@@ -88,10 +88,10 @@ body {
     color: red;
 }
 
-@media screen and (max-height: 300px) {
+@media screen and (max-width: 300px) {
     .game {
-        height: 20vw;
-        width: 20vw;
+        height: 80vw;
+        width: 80vw;
     }
 
     .box {
