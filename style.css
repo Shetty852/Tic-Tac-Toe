@@ -96,15 +96,7 @@ body {
     .box {
     height: 18vmin;
     width: 18vmin;
-    border-radius: 1rem;
-    border: none;
-    box-shadow: 0 0 1rem rgba(0, 0, 0, 0.3);
-    font-size: 4rem; 
-    color: #b0413e;
-    text-align: center;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background-color: #ffffc7;
+    font-size: 1.5rem; 
+
  }
 }
