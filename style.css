@@ -92,12 +92,11 @@ body {
     .game {
         height: 80vw;
         width: 80vw;
-        
     }
 
     .box {
-        height: 60px;
-        width: 60px;
-        font-size: 1.5rem;
+        height: 15vw; /* Adjusted for smaller screens */
+        width: 15vw; /* Adjusted for smaller screens */
+        font-size: 3vw; /* Adjusted for smaller screens */
     }
 }
