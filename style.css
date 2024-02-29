@@ -92,15 +92,14 @@ body {
     .game {
         width: 80vw;
         height: 80vw;
-        display: flex;
-        justify-content: center;
-        align-items:center;
-        flex-direction: column;
-    }
-
+}
     .box {
         height: 60px;
         width: 60px;
         font-size: 1.5rem;
+        display: flex;
+        justify-content: center;
+        align-items:center;
+        flex-direction: column;
     }
 }
