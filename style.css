@@ -91,7 +91,7 @@ body {
 @media screen and (max-width: 700px) {
     .game {
         height: 50vw;
-        width: 80vw;
+        width: 50vw;
     }
 
     .box {
