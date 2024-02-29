@@ -1,4 +1,4 @@
-* {
+hu* {
     margin: 0;
     padding: 0;
 }
@@ -90,8 +90,8 @@ body {
 
 @media screen and (max-width: 700px) {
     .game {
-        height: 50vw;
-        width: 50vw;
+        height: 40vw;
+        width: 40vw;
     }
 
     .box {
