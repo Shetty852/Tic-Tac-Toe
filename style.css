@@ -90,13 +90,13 @@ body {
 
 @media screen and (max-width: 700px) {
     .game {
-        height: 800vw;
-        width: 800vw;
+        height: 80vw;
+        width: 80vw;
     }
 
     .box {
-        height: 30vw; /* Adjusted for smaller screens */
-        width: 10vw; /* Adjusted for smaller screens */
-        font-size: 3vw; /* Adjusted for smaller screens */
+        height: 15vw; 
+        width: 15vw; 
+        font-size: 3vw; 
     }
 }
