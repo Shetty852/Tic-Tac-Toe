@@ -1,4 +1,4 @@
-jihu* {
+hujihu* {
     margin: 0;
     padding: 0;
 }
@@ -97,6 +97,6 @@ body {
     .box {
         height: 15vw; 
         width: 15vw; 
-        font-size: 3vw; 
+        font-size: 1.5rem; 
     }
 }
