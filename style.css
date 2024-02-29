@@ -96,7 +96,7 @@ body {
 
     .box {
         height: 10vw; /* Adjusted for smaller screens */
-        width: 15vw; /* Adjusted for smaller screens */
+        width: 10vw; /* Adjusted for smaller screens */
         font-size: 3vw; /* Adjusted for smaller screens */
     }
 }
