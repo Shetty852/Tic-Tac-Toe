@@ -1,4 +1,4 @@
-hu* {
+jihu* {
     margin: 0;
     padding: 0;
 }
@@ -91,7 +91,7 @@ body {
 @media screen and (max-width: 700px) {
     .game {
         height: 20vw;
-        width: 40vw;
+        width: 20vw;
     }
 
     .box {
