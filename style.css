@@ -92,6 +92,10 @@ body {
     .game {
         width: 80vw;
         height: 80vw;
+        display: flex;
+        justify-content: center;
+        align-items:center;
+        flex-direction: column;
     }
 
     .box {
