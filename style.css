@@ -88,20 +88,8 @@ body {
     color: red;
 }
 
-@media screen and (max-width: 700px) {
-    .game {
-        height: 80vw;
-        width: 80vw;
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: center;
-        align-items: center;
-        gap: 1.5vmin;
-    }
-
-    .box {
-        height: 15vw; 
-        width: 15vw; 
-        font-size: 3vm;
-    }
+@media only screen and (max-width: 600px) {
+  body {
+    background-color: lightblue;
+  }
 }
